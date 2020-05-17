@@ -1,0 +1,7 @@
+C:\Users\Abdullah Mirkelam\source\repos\hesapMakinasi2\hesapMakinasi2\bin\Debug\hesapMakinasi2.exe.config
+C:\Users\Abdullah Mirkelam\source\repos\hesapMakinasi2\hesapMakinasi2\bin\Debug\hesapMakinasi2.exe
+C:\Users\Abdullah Mirkelam\source\repos\hesapMakinasi2\hesapMakinasi2\bin\Debug\hesapMakinasi2.pdb
+C:\Users\Abdullah Mirkelam\source\repos\hesapMakinasi2\hesapMakinasi2\obj\Debug\hesapMakinasi2.csprojAssemblyReference.cache
+C:\Users\Abdullah Mirkelam\source\repos\hesapMakinasi2\hesapMakinasi2\obj\Debug\hesapMakinasi2.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Mirkelam\source\repos\hesapMakinasi2\hesapMakinasi2\obj\Debug\hesapMakinasi2.exe
+C:\Users\Abdullah Mirkelam\source\repos\hesapMakinasi2\hesapMakinasi2\obj\Debug\hesapMakinasi2.pdb
